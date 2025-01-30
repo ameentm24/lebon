@@ -13,7 +13,7 @@ import RegisterPage from "./Pages/Admin/register";
 import LoginPage from "./Pages/Admin/login";
 import AdminPanel from "./Pages/Admin/AdminPanel";
 import ProtectedRoute from "./utils/PrivateAuth";
-import { AuthProvider } from "./context/AuthContext";
+import { AuthProvider } from "./context/authContext";
 import EditItem from "./components/Dashboard/EditItem";
 
 function App() {
