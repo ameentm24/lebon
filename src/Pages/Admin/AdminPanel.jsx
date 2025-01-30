@@ -4,8 +4,8 @@ import Sidebar from "../../components/sidebar/Sidebar";
 import ViewItem from "../../components/Dashboard/ViewItem";//import
 import AddItem from "../../components/Dashboard/AddItem";
 import EditItem from "../../components/Dashboard/EditItem";
-import GalleryView from "../../components/Gallery/GalleryView";
-import GalleryEdit from "../../components/Gallery/GalleryEdit";
+import GalleryView from "../../components/Gallery/Gallery";
+// import GalleryEdit from "../../components/Gallery/Gallery";
 // import AddCakeItem from "../../components/DashBoardTabs/addItem/addCakes";
 // import AddNewArrivalItem from "../../components/DashBoardTabs/addItem/addNewArrivals";
 // import AddPastryItem from "../../components/DashBoardTabs/addItem/addPastries";
